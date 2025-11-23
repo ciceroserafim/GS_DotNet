@@ -1,0 +1,51 @@
+# ================================
+# Visual Studio / .NET
+# ================================
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Config local de usuário
+*.userprefs
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Test Results
+TestResults/
+*.trx
+
+# Publish
+publish/
